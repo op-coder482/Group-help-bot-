@@ -142,15 +142,15 @@ def start(bot: Bot, update: Update, args: List[str]):
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🤝HELP🤝",
                                                                        callback_data="help_back".format(bot.username)),
                                                                                    InlineKeyboardButton(text="🧑‍💻My Creator🧑‍💻",
-                                                                       url="t.me/Shashwat_GFX")],
-                                                                                   [InlineKeyboardButton(text="🔱ADD DEVIL KING TO YOUR GROUP🔱",
+                                                                       url="t.me/Swami_2_0_0_5")],
+                                                                                   [InlineKeyboardButton(text="🔱ADD GROUP HELP TO YOUR GROUP🔱",
                                                                        url="t.me/{}?startgroup=true".format(bot.username)),
                                                                                    InlineKeyboardButton(text="🔥Source Code",
-                                                                       url="https://github.com/LEGENDXOP/GRANDROBOT")
+                                                                       url="https://github.com/opcoder482/Group-help-bot-")
                                                                                  ]]))
 
     else:
-        update.effective_message.reply_text("YEAH DEVIL KING IS ONLINE 😎")
+        update.effective_message.reply_text("YEAH GROUP HELP IS ONLINE 😎")
 
 
 def send_start(bot, update):
