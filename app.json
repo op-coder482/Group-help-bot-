@@ -37,7 +37,7 @@
       },
       "OWNER_NAME": {
          "description": "Your username",
-         "value": "LEGENDX22"
+         "value": "Destroyer"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
@@ -115,6 +115,6 @@
       "bot"
    ],
    "logo": "https://telegra.ph/file/84b2017bc2f3c90f2e61c.jpg",
-   "name": "GRAND OFFICIAL",
-   "repository": "https://github.com/legendx22/GRANDROBOT"
-}
+   "name": "Group help bot",
+   "repository": "https://github.com/op-coder482/Group-help-bot-"
+{
